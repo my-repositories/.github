@@ -2,11 +2,14 @@
 Здесь собраны проекты — от демонстрационных и тестовых заданий до полноценных инструментов и расширений.
 
 ## Технологии
-![C#](https://badgen.net/badge/C#/239123?icon=csharp)
-![JavaScript](https://badgen.net/badge/JavaScript/F0DB4F?icon=javascript)
-![TypeScript](https://badgen.net/badge/TypeScript/3178C6?icon=typescript)
-![C++](https://badgen.net/badge/C++/00599C?icon=cplusplus)
-![Lua](https://badgen.net/badge/Lua/2C2D72?icon=lua)
+- C#/.NET
+- TypeScript
+- JavaScript
+- bash
+- Markdown/YAML
+- Python
+- C++
+- Lua
 
 ## Контакты
 По вопросам сотрудничества и участия в проектах:
