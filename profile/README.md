@@ -12,8 +12,6 @@
 
 #### 1. [obsidian-pc-ez-sync](https://github.com/my-repositories/obsidian-pc-ez-sync)
 **[Obsidian Extension]** Автоматически выполняет pull при открытии и push при закрытии.
-- **Язык:** JavaScript
-- **Лицензия:** —
 - ![Stars](https://badgen.net/github/stars/my-repositories/obsidian-pc-ez-sync)
 - ![Forks](https://badgen.net/github/forks/my-repositories/obsidian-pc-ez-sync)
 - ![Issues](https://badgen.net/github/issues/my-repositories/obsidian-pc-ez-sync)
@@ -21,8 +19,6 @@
 
 #### 2. [friendly2](https://github.com/my-repositories/friendly2)
 **[Chrome extension]** Автоматизация кликов для отправки запросов друзьям и/или подписчикам.
-- **Язык:** TypeScript
-- **Лицензия:** MIT
 - ![Stars](https://badgen.net/github/stars/my-repositories/friendly2)
 - ![Forks](https://badgen.net/github/forks/my-repositories/friendly2)
 - ![Issues](https://badgen.net/github/issues/my-repositories/friendly2)
@@ -30,8 +26,6 @@
 
 #### 3. [contributions-generator](https://github.com/my-repositories/contributions-generator)
 Веб‑приложение для генерации активности на GitHub.
-- **Язык:** JavaScript
-- **Лицензия:** —
 - ![Stars](https://badgen.net/github/stars/my-repositories/contributions-generator)
 - ![Forks](https://badgen.net/github/forks/my-repositories/contributions-generator)
 - ![Issues](https://badgen.net/github/issues/my-repositories/contributions-generator)
@@ -40,8 +34,6 @@
 #### 4. [GameTrainer](https://github.com/my-repositories/GameTrainer)
 **[C++/Lua]** Реверс‑инжиниринг, взлом памяти и хаки для игр.
 - **Теги:** lua, reverse-engineering, memory-hacking, cpp17, gamehack
-- **Язык:** C++
-- **Лицензия:** MIT
 - ![Stars](https://badgen.net/github/stars/my-repositories/GameTrainer)
 - ![Forks](https://badgen.net/github/forks/my-repositories/GameTrainer)
 - ![Issues](https://badgen.net/github/issues/my-repositories/GameTrainer)
@@ -50,8 +42,6 @@
 
 #### 5. [HudLayouter](https://github.com/my-repositories/HudLayouter)
 Проект позволяет отображать любой HUD‑интерфейс поверх игр.
-- **Язык:** C++
-- **Лицензия:** —
 - ![Stars](https://badgen.net/github/stars/my-repositories/HudLayouter)
 - ![Forks](https://badgen.net/github/forks/my-repositories/HudLayouter)
 - ![Issues](https://badgen.net/github/issues/my-repositories/HudLayouter)
@@ -64,9 +54,6 @@
 
 #### 1. [DDD.CQRS.ProjectTemplate](https://github.com/my-repositories/DDD.CQRS.ProjectTemplate)
 Шаблон для создания приложений на .NET Core.
-- **Язык:** C#
-- **Лицензия:** MIT
-- **Статус:** поддерживается
 - ![Stars](https://badgen.net/github/stars/my-repositories/DDD.CQRS.ProjectTemplate)
 - ![Forks](https://badgen.net/github/forks/my-repositories/DDD.CQRS.ProjectTemplate)
 - ![Issues](https://badgen.net/github/issues/my-repositories/DDD.CQRS.ProjectTemplate)
@@ -74,9 +61,6 @@
 
 #### 2. [DDD.CQRS](https://github.com/my-repositories/DDD.CQRS)
 Набор NuGet‑пакетов для работы с DDD и CQRS.
-- **Язык:** C#
-- **Лицензия:** MIT
-- **Статус:** активно обновляется
 - ![Stars](https://badgen.net/github/stars/my-repositories/DDD.CQRS)
 - ![Forks](https://badgen.net/github/forks/my-repositories/DDD.CQRS)
 - ![Issues](https://badgen.net/github/issues/my-repositories/DDD.CQRS)
